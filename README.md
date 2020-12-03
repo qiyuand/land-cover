@@ -1,5 +1,7 @@
 # Large Scale High-Resolution Land Cover Mapping with Multi-Resolution Data
 
+#### Edited by Qiyuan Dong, to test remote deployment.
+
 Repo accompanying the CVPR 2019 paper "Large Scale High-Resolution Land Cover Mapping with Multi-Resolution Data".
 
 <!--
